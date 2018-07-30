@@ -47,6 +47,12 @@
   background-color: #c8c6fa;
 }
 
+.illustration {
+  width: 100%;
+  display: block;
+  align-items: center;
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
